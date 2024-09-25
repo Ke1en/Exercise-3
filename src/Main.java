@@ -68,13 +68,12 @@ public class Main {
                     break;
                 case 7:
                     System.out.println("The day when you are devastated");
+                    break;
                 default:
                     System.out.println("Day to think what you have done in a week");
                     break;
             }
             dayNumber = scanner.nextInt();
         }
-
-
     }
 }
